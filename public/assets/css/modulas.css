@@ -295,7 +295,8 @@ input, select, textarea {
 					padding-right: 2.25em;
 				}
 
-					#nav ul li a span:before {
+					#nav ul li a span:before{
+						
 						left: 100%;
 						margin-left: -1.25em;
 						line-height: 2.25em;
@@ -318,6 +319,8 @@ input, select, textarea {
 			#nav ul li a {
 				padding: 0.5em 1.25em 0.5em 1.25em;
 			}
+		
+			
 
 	}
 
