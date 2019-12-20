@@ -307,7 +307,7 @@ input, select, textarea {
 /* Narrower */
 
 	#headerToggle {
-		display: none;
+		display: block;
 	}
 
 	@media screen and (max-width: 960px) {

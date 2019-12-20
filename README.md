@@ -3,7 +3,7 @@
 ## This project is talking about:
 *  My portfolio.
 * contain my repo in Github.
-* contact me $ about me. 
+* contact me & about me. 
 
 **This project is built by: Qusai-alhanaktah**
 

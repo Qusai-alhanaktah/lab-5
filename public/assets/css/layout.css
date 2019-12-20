@@ -1812,6 +1812,7 @@ table {
 
 	}
 
+
 /* Narrow */
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
@@ -1941,7 +1942,7 @@ table {
 						position: absolute;
 						left: 0.5em;
 						top: 0.5em;
-						display: none;
+						display: block;
 						width: 3.25em;
 						height: 2.25em;
 						line-height: 2.25em;
